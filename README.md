@@ -10,9 +10,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ffff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=2c5364" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=203a43" />
+<img src="https://komarev.com/ghpvc/?username=swamy-17&label=Profile%20Views&color=00ffff&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/swamy-17?style=for-the-badge&logo=github&color=2c5364" />
+<img src="https://img.shields.io/github/stars/swamy-17?style=for-the-badge&logo=github&color=203a43" />
 
 </div>
 
@@ -133,8 +133,8 @@ Analyzes household energy consumption and gives insights to help optimize usage.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swamy-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swamy-17&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
 
 </div>
 
@@ -143,7 +143,7 @@ Analyzes household energy consumption and gives insights to help optimize usage.
 # 🔥 GitHub Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=false&border_radius=10" />
+<img src="https://streak-stats.demolab.com?user=swamy-17&theme=tokyonight&hide_border=false&border_radius=10" />
 </div>
 
 ---
@@ -151,7 +151,7 @@ Analyzes household energy consumption and gives insights to help optimize usage.
 # 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/swamy-17/swamy-17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -159,7 +159,7 @@ Analyzes household energy consumption and gives insights to help optimize usage.
 # 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swamy-17&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -167,7 +167,7 @@ Analyzes household energy consumption and gives insights to help optimize usage.
 # 🏆 GitHub Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=swamy-17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1" />
 </div>
 
 ---
@@ -202,9 +202,9 @@ Analyzes household energy consumption and gives insights to help optimize usage.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="www.linkedin.com/in/ swamynaidugolakoti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:swamynaidu6270@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/swamy-17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
 
