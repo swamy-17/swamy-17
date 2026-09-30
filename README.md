@@ -140,20 +140,7 @@ Analyzes household energy consumption and gives insights to help optimize usage.
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=swamy-17&theme=tokyonight&hide_border=false&border_radius=10" />
-</div>
-
 ---
-
-# 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/swamy-17/swamy-17/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 
 # 📈 Contribution Activity
