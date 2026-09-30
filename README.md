@@ -25,7 +25,7 @@
 </div>
 
 ```text
-Name       : Naidu
+Name       : SWAMY NAIDU GOLAKOTI
 Education  : B.Tech Computer Engineering
 Background : Diploma in Computer Engineering
 Focus      : Full Stack Development & Machine Learning
